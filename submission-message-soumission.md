@@ -2,7 +2,7 @@
 
 ##Nom de l'étudiant | Student Name:
 
-John Smith
+Sabrina Arruda
 
 ##GitHub Pages:
 
@@ -12,9 +12,18 @@ https://jsmarier.github.io/Template-for-the-Website-Project/
 
 ##CSS:
 
-1. I used crimson as a colour for my h1 headings.
-2. J'ai ajouté une classe h2-bleu à certains titres de niveau 2 et ai modifié la feuille CSS pour les rendre bleus.
-3. I changed the background colour from whitesmoke to darkblue.
-4. J'ai mis Arial comme police par défaut pour tous les paragraphes.
-5. I used a font size of 18px in my paragraphs.
-6. Etc.
+1. J'ai mis les h1 en rouge.
+2. J'ai mis les h2 en mauve.
+3. Pour les paragraphes, j'ai mis le font à Helvetica.
+4. Pour les paragraphes, j'ai mis le line-height à 10px.
+5. Pour les paragraphes, j'ai mis le font-size à 20px.
+6. Pour les paragraphes, j'ai mis le background-color à antique white.
+7. Pour h1, j'ai mis le font-weight à bold.
+8. Pour h1, j'ai mis l'opacity à 1.
+9. Pour h2, j'ai mis le font-weight à bold.
+10. Pour h2, j'ai mis l'opacity à 0.7.
+11. Pour les paragraphes, j'ai mis en aqua.
+12. Pour h1, j'ai mis le font à Times New Roman.
+13. Pour h2, j'ai mis le font à Georgia.
+14. Pour h1, j'ai mis le font-size à 30px.
+15. Pour h2, j'ai mis le font-size à 20px.
